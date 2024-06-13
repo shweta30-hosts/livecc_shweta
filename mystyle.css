@@ -1,0 +1,25 @@
+*{
+	font-size:50px;
+	font-family:Century Gothic;
+}
+
+body{
+	background-color:teal;
+}
+
+form{
+	border:3px solid  black ;
+	width:900px; 
+        padding: 20px; 
+        margin: auto;
+	backdrop-filter: blur(10px);
+	background: rgba(255, 255, 255, 0.7);
+	border-radius:30px;
+}
+
+.btn{
+	background-color:transparent;
+	color:black;
+	border:none;
+	border-radius:10px;
+}
